@@ -1,7 +1,7 @@
 # Gevako RS6-C3 | 6-channel Smart Switch for Home Assistant
 
 ## Introduction
-The Gevako RS6 is a 6-channel Smart Switch suitable for Home Assistant by using ESPHome. Six individual relays with a maximum switching current of 16 A at max 250 VAC / 30 VDC. Using the powerful ESP32-C3 as processor.
+The Gevako RS6 is a 6-channel Smart Switch suitable for Home Assistant by using ESPHome. Six individual relays with a maximum switching current of 16 A at max 250 VAC / 30 VDC. Using the powerful ESP32-C3 processor.
 
 [<img width="200" height="200" alt="RS6-2" src="https://github.com/user-attachments/assets/4f97974d-c294-44d3-8330-2c8b5f93b171" />](https://gevako.nl/shop/gevako-rs6/)
 
